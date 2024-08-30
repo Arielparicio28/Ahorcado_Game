@@ -1,18 +1,14 @@
-## Getting Started
+## Juego del ahorcado desarrollado con Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Juego en el cual s3e juega mediante la consola y vas colocando letras hasta adivinar la palabra hay dos versiones del juego una en la cual hay una sola palabra y otra en la cual proporciono un array de strings en la cual la palabra se selecciona al azar.
 
-## Folder Structure
+## Herramientas y Clases utilizadas.
 
-The workspace contains two folders by default, where:
+1. Clase Scanner para obtener la entrada del usuario.
+2. Estructuras de control while y for.
+3. Arreglos (Arrays).
+4. Clase String y sus métodos valueOf(),charAt() y length(). 
+5. Clase Character y su método toLowerCase().
+6. Estructuras de control condicional (if).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
