@@ -1,6 +1,6 @@
 ## Juego del ahorcado desarrollado con Java.
 
-Juego en el cual s3e juega mediante la consola y vas colocando letras hasta adivinar la palabra hay dos versiones del juego una en la cual hay una sola palabra y otra en la cual proporciono un array de strings en la cual la palabra se selecciona al azar.
+Juego en el cual se juega mediante la consola y vas colocando letras hasta adivinar la palabra hay dos versiones del juego una en la cual hay una sola palabra y otra en la cual proporciono un array de strings en la cual la palabra se selecciona al azar.
 
 ## Herramientas y Clases utilizadas.
 
